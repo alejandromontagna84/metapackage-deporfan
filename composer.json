@@ -1,0 +1,18 @@
+{
+    "name": "alemontagna/metapackage-deporfan",
+    "description": "Metapackage para Deporfan",
+    "type": "metapackage",
+    "version": "1.0.0",
+    "license": "OSL-3.0",
+    "require": {
+        "glamit/theme-frontend-deporfan": "dev-master",
+        "mageplaza/module-core": "^1.4.5",
+        "mageplaza/module-banner-slider": "4.0.1"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:glamit/deporfan.git"
+        }
+    ]
+}
