@@ -11,7 +11,8 @@
         "mercadopago/magento2-plugin": "3.9.1",
         "magepal/magento2-gmailsmtpapp": "2.8.5",
         "owebia/magento2-module-advanced-shipping" : "^2.8.9",
-        "classyllama/module-zendesk" : "1.1.9"
+        "classyllama/module-zendesk" : "1.1.9",
+        "mageplaza/magento-2-social-login": "4.1.0"
     },
     "repositories": [
         {
