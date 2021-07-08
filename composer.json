@@ -8,7 +8,8 @@
         "glamit/deporfan": "dev-master",
         "mageplaza/module-core": "^1.4.5",
         "mageplaza/module-banner-slider": "4.0.1",
-        "mercadopago/magento2-plugin": "3.9.1"
+        "mercadopago/magento2-plugin": "3.9.1",
+        "magepal/magento2-gmailsmtpapp": "dev-master"
     },
     "repositories": [
         {
