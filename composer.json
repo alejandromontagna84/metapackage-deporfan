@@ -10,7 +10,7 @@
         "mageplaza/module-banner-slider": "4.0.1",
         "mercadopago/magento2-plugin": "3.9.1",
         "magepal/magento2-gmailsmtpapp": "2.8.5",
-        "owebia/magento2-module-advanced-shipping" : "^2.8.9
+        "owebia/magento2-module-advanced-shipping" : "^2.8.9"
     },
     "repositories": [
         {
