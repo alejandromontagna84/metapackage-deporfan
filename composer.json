@@ -12,12 +12,22 @@
         "magepal/magento2-gmailsmtpapp": "2.8.5",
         "owebia/magento2-module-advanced-shipping" : "^2.8.9",
         "classyllama/module-zendesk" : "1.1.9",
-        "mageplaza/magento-2-social-login": "4.1.0"
+        "mageplaza/magento-2-social-login": "4.1.0",
+        "glamit/module-transactional-emails": "dev-master",
+        "glamit/module-order-management": "dev-master",
     },
     "repositories": [
         {
             "type": "vcs",
             "url":  "git@bitbucket.org:glamit/deporfan.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:glamit/module-transactional-emails.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:glamit/module-order-management.git"
         }
     ]
 }
