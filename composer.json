@@ -14,7 +14,7 @@
         "classyllama/module-zendesk" : "1.1.9",
         "mageplaza/magento-2-social-login": "4.1.0",
         "glamit/module-transactional-emails": "dev-master",
-        "glamit/module-order-management": "dev-master",
+        "glamit/module-order-management": "dev-master"
     },
     "repositories": [
         {
